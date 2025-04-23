@@ -1,0 +1,86 @@
+# This is a sample file for practicing sed commands
+# Line 2: A comment line starting with hash
+This is a normal text line.
+THIS LINE IS ALL UPPERCASE.
+this line is all lowercase.
+This Line Has Title Case Words.
+  This line has leading whitespace.
+This line has trailing whitespace.    
+	This line starts with a tab character.
+
+# Empty lines
+
+# Different delimiters and special characters
+This line has spaces between words.
+This,line,has,comma,separated,values.
+This|line|has|pipe|separated|values.
+This:line:has:colon:separated:values.
+This;line;has;semicolon;separated;values.
+This.line.has.period.separated.values.
+
+# HTML-like content
+<p>This is a paragraph tag.</p>
+<div>This is a div tag with <b>bold text</b> inside it.</div>
+<a href="https://example.com">This is a link</a>
+
+# Numbers and dates
+Line number 1
+Line number 2
+Line number 3
+Line number 4
+Line number 5
+
+Date: 2023-01-15
+Date: 2023/02/20
+Date: 03-25-2023
+Date: 04/30/2023
+
+# IP Addresses and emails
+IP: 192.168.1.1
+IP: 10.0.0.1
+IP: 172.16.254.1
+Email: user@example.com
+Email: admin@test.org
+Email: info@company.net
+
+# Repeating patterns
+apple apple apple
+orange orange
+banana
+
+# Lines for replacement practice
+The quick brown fox jumps over the lazy dog.
+Peter Piper picked a peck of pickled peppers.
+She sells seashells by the seashore.
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+
+# Words that appear multiple times in different cases
+color Color COLOR
+test Test TEST
+example Example EXAMPLE
+
+# Lines with numbers for arithmetic operations
+Price: $10
+Price: $20
+Price: $30
+Total: $0
+
+# Configuration-like entries
+name=John Doe
+age=30
+city=New York
+country=USA
+
+# Lines with errors to fix
+This lin has a speling mistake.
+This line has has a repeated word.
+This line has no ending period
+THis line has incorrect Capitalization.
+
+# JSON-like content
+{"name": "John", "age": 30, "city": "New York"}
+{"name": "Jane", "age": 25, "city": "Boston"}
+{"name": "Bob", "age": 40, "city": "Chicago"}
+
+# End of file marker
+# END OF FILE

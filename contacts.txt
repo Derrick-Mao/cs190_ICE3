@@ -1,0 +1,29 @@
+COMPANY CONTACT LIST - INTERNAL USE ONLY
+
+Executive Team:
+John Smith, CEO - john.smith@example.com - (555) 123-4001
+Sarah Johnson, CFO - sjohnson@example.com - (555) 123-4002
+Michael Williams, CTO - mw@example.com - (555) 123-4003
+
+Engineering Department:
+Robert Brown - robert.brown2@example.com - (555) 123-4101
+Jennifer Davis - jen.davis@example.com - (555) 123-4102
+David Martinez - d.martinez@example.com - (555) 123-4103
+Lisa Garcia - lisa.g@example.com - (555) 123-4104
+
+Sales Department:
+James Wilson - jwilson@example.com - (555) 123-4201  
+Patricia Moore - pmoore1983@example.com - (555) 123-4202
+Thomas Taylor - thomas.taylor@example.com - (555) 123-4203
+
+Customer Support:
+Barbara Anderson - support.anderson@example.com - (555) 123-4301
+Charles Thomas - cthomas@example-support.com - (555) 123-4302
+Susan Jackson - susan.j@example.com - (555) 123-4303
+
+External Contractors:
+Acme Consulting - info@acmeconsulting.net - (555) 987-6543
+TechSupport Inc. - support@techsupport-inc.co.uk - (555) 876-5432
+Design Masters - contact@design-masters.io - (555) 765-4321
+
+REMINDER: Follow company policy when sharing contact information.
